@@ -15,7 +15,35 @@ const cardData = [
     price: "1500 ETB",
     description: ["surrounded by.", "surrounded by."],
   },
-  // Add more card data here if needed
+  
+   {
+    id: 1,
+    title: "Plaid Sleeve Kangaroo Pocket Drawstring Hoodie",
+    rating: 5.0,
+    price: "1500 ETB",
+    description: ["surrounded by.", "surrounded by."],
+  },
+   {
+    id: 1,
+    title: "Plaid Sleeve Kangaroo Pocket Drawstring Hoodie",
+    rating: 5.0,
+    price: "1500 ETB",
+    description: ["surrounded by.", "surrounded by."],
+  },
+    {
+    id: 1,
+    title: "Plaid Sleeve Kangaroo Pocket Drawstring Hoodie",
+    rating: 5.0,
+    price: "1500 ETB",
+    description: ["surrounded by.", "surrounded by."],
+  },
+    {
+    id: 1,
+    title: "Plaid Sleeve Kangaroo Pocket Drawstring Hoodie",
+    rating: 5.0,
+    price: "1500 ETB",
+    description: ["surrounded by.", "surrounded by."],
+  },
 ];
 
 function TrendingCard() {
